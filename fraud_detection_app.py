@@ -33,7 +33,7 @@ else:
     st.text("PROJECT BY: AHMAD ABDU GOGE")
 
     # Some image
-    st.image("img/credit_card_fraud.jpg")
+    st.image("credit_card_fraud.jpg")
 
     # Description
     st.write(
